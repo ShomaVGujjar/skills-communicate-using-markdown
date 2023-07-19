@@ -2,3 +2,7 @@
 ## Header 2
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```bash
+dotnet run --launch-profile "dotnet-cli" --configuration Debug --no-build --no-restore
+```
